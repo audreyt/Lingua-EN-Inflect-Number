@@ -4,3 +4,4 @@ MANIFEST
 Number.pm
 README
 test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
